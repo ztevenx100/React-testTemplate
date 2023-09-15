@@ -1,0 +1,18 @@
+.iconFooter{
+	height: 30px;
+	width: auto;
+	border: 1px solid #FFF;
+	border-radius: 50%;
+	background-color:#FFF;
+	margin: 0px 5px;
+	transition: box-shadow 1s;
+}
+
+.iconFooter.ism1:hover { box-shadow: 0px 0px 5px 3px #3B5998 }
+.iconFooter.ism2:hover { box-shadow: 0px 0px 5px 3px #1DA1F2 }
+.iconFooter.ism3:hover { box-shadow: 0px 0px 5px 3px #FD5949 }
+.iconFooter.ism4:hover { box-shadow: 0px 0px 5px 3px #25D366 }
+.iconFooter.ism5:hover { box-shadow: 0px 0px 5px 3px #6441A5 }
+.iconFooter.ism6:hover { box-shadow: 0px 0px 5px 3px #0E76A8 }
+.iconFooter.ism7:hover { box-shadow: 0px 0px 5px 3px #FFF }
+.iconFooter.ism8:hover { box-shadow: 0px 0px 5px 3px #FF4500 }
