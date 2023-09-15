@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../react-myWorld"
+		},
+		{
+			"name": "react-HVPedroCastiblanco",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"npm.enableRunFromFolder": true
+	}
+}
